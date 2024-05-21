@@ -1,0 +1,8 @@
+=== Data Mahasiswa ===
+Nama Anda  : Bagus Satrio Wicaksono
+Kelas Anda : 1IA25
+NPM Anda   : 50422317
+Total Nilai Ujian Anda : 70.0
+B
+KETERANGAN : LULUS
+

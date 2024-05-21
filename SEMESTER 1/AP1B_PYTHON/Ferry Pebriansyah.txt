@@ -1,0 +1,8 @@
+=== Data Mahasiswa ===
+Nama Anda  : Ferry Pebriansyah
+Kelas Anda : 1IA25
+NPM Anda   : 50422572
+Total Nilai Ujian Anda : 99.33333333333333
+A
+KETERANGAN : LULUS
+

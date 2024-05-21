@@ -1,0 +1,8 @@
+=== Data Mahasiswa ===
+Nama Anda  : Naufaliawan Ghibran
+Kelas Anda : 1IA25
+NPM Anda   : 51422233
+Total Nilai Ujian Anda : 90.0
+A
+KETERANGAN : LULUS
+

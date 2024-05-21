@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ferry",
+      "hobi": "Main game FIFA next gen",
+      "alamat": "Sektor 5"
+    },
+    {
+      "id": 2,
+      "name": "Gilang",
+      "hobi": "Valo enthusiast",
+      "alamat": "Bali (Babelan Belok Kiriii"
+    },
+    {
+      "id": 3,
+      "name": "Bagus",
+      "hobi": "Main FIFA seri lama",
+      "alamat": "Jakartatata"
+    },
+    {
+      "id": 4,
+      "name": "Adam",
+      "hobi": "Berjualan",
+      "alamat": "Planet Tambun"
+    }
+  ]
+}
+
